@@ -1,2 +1,2 @@
 # AI-and-ML
-Code regarding AIandML
+Code regarding AI and ML
